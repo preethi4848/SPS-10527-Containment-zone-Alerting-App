@@ -1,4 +1,4 @@
-# Location Aware COVID-19_Alert_App
+# Containment Zone Alerting App
 
 ## Features Overview:
 1)	Sign-up verification by phone number. User registration contains name, age, home address, work address (optional).
@@ -45,9 +45,4 @@ The block generation is similar to hashing function by providing a key that is t
 Through the app’s global news feed, relief requests can be posted without directly sharing personal or family information of a user. A contact button is attached to relief posts through which any other user can call and contact the relief request post’s author and reach out for help. This feature especially targets the middle-class families that are suffering greatly in silence and cannot seek help publicly. A user is allowed to make only one relief post every seven days, this is a measure taken to stop misuse of the feature. 
 
 <br>
-
-![relif request post](https://github.com/ferdouszislam/COVID-19_Alert_App/blob/master/screenshots/relief-post-typing.png) &nbsp;&nbsp;&nbsp; ![anonymous on newfeed](https://github.com/ferdouszislam/COVID-19_Alert_App/blob/master/screenshots/relief-post-newsfees.png) &nbsp;&nbsp;&nbsp;![relief request denied within 3 days](https://github.com/ferdouszislam/COVID-19_Alert_App/blob/master/screenshots/relief-post-3-days-message.png)
-
 <br>
-
-#### For the full project report please [visit this link](https://drive.google.com/file/d/1YvfBob1OiTHEwugFXQWtB0ZgzQgJmjJR/view?usp=sharing)
